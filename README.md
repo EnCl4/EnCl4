@@ -2,7 +2,7 @@
 - 🔭 Atualmente trabalho com back-end
 - 🌱 Estudando: R
 - 😄 Pronouns: ele/dele
-- <div>
+<div>
     <a href="https://github.com/EnCl4">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=EnCl4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnCl4&layout=compact&theme=dark&count_private=true"/> 
