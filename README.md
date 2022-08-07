@@ -1,6 +1,6 @@
 ### Olá sou o Enzo Claro
-- 🔭 Atualmente trabalho com back-end
-- 🌱 Estudando: R
+- 🔭 Atualmente trabalho com back-end, especificamente C/C++
+- 🌱 Estudando: Python, C#, React, JS e R
 - 😄 Pronouns: ele/dele
 <div>
     <a href="https://github.com/EnCl4">
