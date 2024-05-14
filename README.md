@@ -1,4 +1,4 @@
-### Hi, mu name is Enzo Claro
+### Hi, my name is Enzo Claro
 - 🔭 Atualmente trabalho com back-end, especificamente C/C++
 - 🌱 Estudando: Python, C#, React Js, JS e R
 <div>
