@@ -1,6 +1,7 @@
 ### Hi, my name is Enzo Claro
-- 🔭 Atualmente trabalho com back-end, especificamente C/C++
-- 🌱 Estudando: Python, C#, React Js, JS e R
+- 🔭 Atualmente trabalho com back-end, especificamente C/C++ e Python;
+- Focado na análise de dados e processamento de sinais para sistemas dinâmicos;
+- 🌱 Estudando: C#, React Js, JS e R;
 <div>
     <a href="https://github.com/EnCl4">
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=EnCl4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
